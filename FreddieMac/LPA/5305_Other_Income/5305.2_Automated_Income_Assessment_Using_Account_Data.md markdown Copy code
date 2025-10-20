@@ -1,0 +1,109 @@
+Source: Freddie Mac Seller/Servicer Guide  
+Section: 5305.2 – Automated Income Assessment with Loan Product Advisor® Using Account Data for Other Income  
+Effective Date: 07/02/2025  
+
+---
+
+This section contains:  
+- Overview  
+- Eligible income types  
+- Underwriting requirements  
+- Data submission requirements, representation and warranty relief eligibility and documentation requirements  
+- IRS Form 4506-C requirements  
+
+---
+
+### (a) Overview  
+
+Asset and Income Modeler (AIM) – automated income assessment using account data – allows Sellers to use **Loan Product Advisor® (LPA)** to determine eligibility for **representation and warranty relief** related to Borrower income.
+
+Eligibility for such relief is contingent on full compliance with this section.  
+The Seller must:  
+- Obtain the Borrower’s **account data**,  
+- Submit all required information to **Loan Product Advisor**, and  
+- Review the **Feedback Certificate** for relief eligibility results.
+
+---
+
+### (b) Eligible Income Types  
+
+The following income types (as defined in Section 5305.1) are eligible for automated assessment using account data:
+
+- Alimony, child support, or separate maintenance payments  
+- Retirement income (Social Security and pensions)  
+- Social Security disability benefits  
+- Social Security Supplemental Security Income (SSI)  
+- Social Security survivor benefits  
+- VA disability compensation  
+
+---
+
+### (c) Underwriting Requirements  
+
+#### (i) General Requirements  
+
+The Seller must have **no knowledge or documentation contradicting** the expectation that income will continue for at least **three years**.  
+The Seller must confirm that:
+
+1. Each account on the verification report is owned by at least one Borrower.  
+2. All assets shown are in **U.S. dollars** and held in a **U.S.-regulated financial institution**.  
+3. The payor is correctly identified as one of the following:  
+   - Pension fund(s)  
+   - Social Security Administration (SSA) or Veterans Administration (VA)  
+   - For alimony/child support: the responsible party identified in legally binding documents (court order, divorce decree, separation or support agreement).  
+
+> For documentation rules specific to alimony, child support, or maintenance payments, refer to Section 5305.2(d)(iii).
+
+#### (ii) Age of Documentation  
+
+The expiration date of the verification report appearing on the **Last Feedback Certificate** must comply with the age of documentation standards in **Section 5102.4**.  
+
+---
+
+### (d) Data Submission, Representation & Warranty Relief, and Documentation Requirements  
+
+#### (i) Data Submission  
+
+For Mortgages with automated income assessment using Loan Product Advisor:  
+- Submit the **income amount** used for underwriting to LPA.  
+- Investigate and resolve any **contradictory information** among the verification report, **Form 65 (URLA)**, and the Mortgage file.  
+- If a new verification report is obtained, **resubmit** the updated account data to Loan Product Advisor.
+
+---
+
+#### (ii) Representation and Warranty Relief Results on the Feedback Certificate  
+
+If multiple submissions are made, the Seller’s relief eligibility is determined by the **Last Feedback Certificate**.
+
+| Eligibility Result | Representation and Warranty Relief |
+|--------------------|------------------------------------|
+| **Eligible** | Seller is relieved from enforcement of:<br>• Accuracy of income calculation related to eligible income types on the verification report, and<br>• Accuracy and integrity of the verification report data. |
+| **Partial** | Seller is relieved from enforcement of:<br>• Accuracy of the income calculation for the confirmed eligible income source(s), and<br>• Accuracy and integrity of the verification report data. |
+| **Not Eligible** | No relief from enforcement of income-related representations and warranties. |
+| **Unavailable** | No relief from enforcement of income-related representations and warranties. |
+
+---
+
+#### (iii) Documentation Requirements  
+
+| Eligibility Result | Required Documentation |
+|--------------------|-------------------------|
+| **Eligible** | Maintain the **verification report** in the Mortgage file.<br><br>If income includes **alimony, child support, or separate maintenance**, also retain:<br>• Legally binding documentation verifying the payor’s obligation for at least the prior six months, including amount and duration.<br>• For child support, evidence of the **ages of the children** for whom payments are made.<br><br>When multiple income sources exist:<br>• For sources **not eligible** for relief, either verify and document per the Guide or remove and resubmit the loan to LPA. |
+| **Partial** | Maintain the **verification report** and paystub(s) (if applicable).<br><br>For alimony, child support, or maintenance income:<br>• Legally binding documentation verifying the payor’s obligation for the prior six months, including amount and duration.<br>• For child support, evidence of the children’s ages.<br><br>When multiple income sources exist, document the non-eligible ones as required by feedback messages. |
+| **Not Eligible** | Income must be verified and documented in full compliance with the Guide. |
+| **Unavailable** | Income must be verified and documented in full compliance with the Guide. |
+
+---
+
+### (e) IRS Form 4506-C Requirements  
+
+For Mortgages receiving an income representation and warranty result of **“Eligible”** or **“Partial”**, where feedback indicates that **no further documentation is required**, and **all Borrower income is from eligible types in Section 5305.2(b)** — the Seller **does not need to obtain**:
+
+- A signed **IRS Form 4506-C** (or IRS-approved equivalent authorizing release of comparable tax data), **or**  
+- A signed **Commonwealth of Puerto Rico Form 2907** or **Form 4506-C** (or equivalent) for income derived from Puerto Rico, Guam, or the U.S. Virgin Islands that is **exempt from federal taxation** under the Internal Revenue Code.  
+
+For all other Mortgages, the requirements of **Section 5302.5** regarding IRS Form 4506-C apply.  
+
+---
+
+**End of Section 5305.2 – Automated Income Assessment with Loan Product Advisor® Using Account Data for Other Income**
