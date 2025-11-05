@@ -35,7 +35,7 @@ Example:
 
 Workflow
 
-Live Parser (Romy’s module) automatically fetches and structures data from official Freddie/Fannie websites.
+Live Parser automatically fetches and structures data from official Freddie/Fannie websites.
 
 If the parser fails or a section changes, the system loads the corresponding .md file from this repository.
 
